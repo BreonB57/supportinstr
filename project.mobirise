@@ -42,7 +42,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Get Support",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -198,7 +198,7 @@
           "title": "Instructions",
           "title1": "Bootstrap 4",
           "subtitle1": "download the applet",
-          "caption1": "Press the button below to download the applet, but do not press it until reading these instructions",
+          "caption1": "Scroll down and press the button below to download the applet, but do not press it until reading these instructions",
           "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
           "title2": "Responsive",
           "subtitle2": "Run the applet",
