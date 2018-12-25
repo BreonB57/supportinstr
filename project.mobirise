@@ -253,7 +253,7 @@
           },
           "title": "Click here →",
           "text": "Have you finished reading the instructions?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://www.get.teamviewer.com/breon\" data-toolbar=\"-mbrBtnMove\">continue</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://get.teamviewer.com/breon\" data-toolbar=\"-mbrBtnMove\">continue</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
